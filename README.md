@@ -8,6 +8,7 @@ C++ study
 
 ## Book
 * [모던 C++ 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125700312)
+* [C++로 쉽게 풀어쓴 자료구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=88830055)
 
 ## Reference
 * [ref1](https://webnautes.tistory.com/1158)
