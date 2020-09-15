@@ -1,0 +1,4 @@
+﻿  ex01.cpp
+D:\GitHub\Cpp\inflearn\t05\t05\ex01.cpp(23,15): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\GitHub\Cpp\inflearn\t05\t05\ex01.cpp(24,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  t05.vcxproj -> D:\GitHub\Cpp\inflearn\t05\Debug\t05.exe
