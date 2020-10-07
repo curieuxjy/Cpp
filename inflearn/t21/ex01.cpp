@@ -2,7 +2,17 @@
 #include <stdio.h>
 
 int main() {
-	int arr[5];
+	int n;
+	int arr[1000];
 
-	printf("입력할 숫자의 개수 입력 ; ")
+	printf("입력할 숫자의 개수 입력 : ");
+	scanf_s("%d", &n);
+	printf("배열 안에 들어갈 숫자들을 써주세요.\n");
+	for (int i = 0; i < n; i++) {
+		scanf_s("%d", &arr[i]);
+	}
+
+	for (int i = n - 1; i >= 0; i--) {
+		printf("%d ", arr[i]);
+	}
 }
