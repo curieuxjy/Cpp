@@ -1,0 +1,2 @@
+D:\GitHub\Cpp\inflearn\t35\Debug\t35.exe
+D:\GitHub\Cpp\inflearn\t35\Debug\t35.pdb
