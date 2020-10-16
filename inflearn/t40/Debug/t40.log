@@ -1,0 +1,6 @@
+﻿  ex01.cpp
+D:\GitHub\Cpp\inflearn\t40\ex01.cpp(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\GitHub\Cpp\inflearn\t40\ex01.cpp(20,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+D:\GitHub\Cpp\inflearn\t40\ex01.cpp(21,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\GitHub\Cpp\inflearn\t40\ex01.cpp(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'ProductInfo *'입니다.
+  t40.vcxproj -> D:\GitHub\Cpp\inflearn\t40\Debug\t40.exe
