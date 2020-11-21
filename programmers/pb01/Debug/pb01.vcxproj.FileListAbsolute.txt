@@ -1,2 +1,0 @@
-D:\GitHub\Cpp\programmers\pb01\Debug\pb01.exe
-D:\GitHub\Cpp\programmers\pb01\Debug\pb01.pdb
