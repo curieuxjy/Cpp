@@ -1,0 +1,6 @@
+﻿  ex01.cpp
+D:\GitHub\Cpp\programmers\pb01\ex01.cpp(10,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHub\Cpp\programmers\pb01\ex01.cpp(11,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHub\Cpp\programmers\pb01\ex01.cpp(20,38): error C2664: 'std::vector<int,std::allocator<int>> solution(std::vector<int,std::allocator<int>>)': 인수 1을(를) 'const char [16]'에서 'std::vector<int,std::allocator<int>>'(으)로 변환할 수 없습니다.
+D:\GitHub\Cpp\programmers\pb01\ex01.cpp(20,38): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+D:\GitHub\Cpp\programmers\pb01\ex01.cpp(7,13): message : 'solution' 선언을 참조하십시오.
